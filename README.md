@@ -71,7 +71,7 @@
 <br/>
 <br/>
 
-## ⭐ SGBDs
+## ⭐ DBMS
 
 <img 
     align="left" 
