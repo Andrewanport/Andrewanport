@@ -147,11 +147,4 @@
     src="https://github-readme-stats.vercel.app/api?username=Andrewanport&show_icons=true&theme=dark&include_all_commits=true" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewanport&theme=dark&layout=compact&custom_title=Technologies used&langs_count=6"   
-  />
-
 </p>
