@@ -127,20 +127,20 @@
 
 <img 
     align="left" 
-    alt="Trello" 
-    title="Trello"
-    width="40px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-/>
-
-<img 
-    align="left" 
     alt="Insomnia" 
     title="Insomnia"
     width="40px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="40px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
 />
 
 <img 
