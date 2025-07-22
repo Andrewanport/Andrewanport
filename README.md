@@ -7,7 +7,7 @@
 
 ---
 
-## ⭐ languages I use 
+## ⭐ Technologies i use
 
 <img 
     align="left" 
