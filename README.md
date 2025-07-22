@@ -127,12 +127,13 @@
 
 <img 
     align="left" 
-    alt="Figma" 
-    title="Figma"
+    alt="Trello" 
+    title="Trello"
     width="40px" 
     style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
+
 <img 
     align="left" 
     alt="Insomnia" 
@@ -141,6 +142,16 @@
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"
 />
+
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="40px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
+
 <img 
     align="left" 
     alt="Notion" 
@@ -149,6 +160,7 @@
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"
 />
+
 <img 
     align="left" 
     alt="Trello" 
