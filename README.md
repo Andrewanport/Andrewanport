@@ -45,6 +45,15 @@
 
 <img 
     align="left" 
+    alt="NodeJS" 
+    title="NodeJS"
+    width="40px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
+
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="40px" 
