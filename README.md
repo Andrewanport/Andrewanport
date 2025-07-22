@@ -76,6 +76,16 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="NestJS" 
+    title="NestJS"
+    width="40px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
+/>
+
+
 <br/>
 <br/>
 <br/>
