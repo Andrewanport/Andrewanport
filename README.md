@@ -10,13 +10,14 @@
 <p align="left">
   <a href="https://www.credly.com/badges/d35695ae-944a-46e9-a69e-0b9b344a80a3/public_url" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://images.credly.com/size/340x340/images/684b2d81-8aa7-42cc-bb74-ec6d71e6d2a6/image.png"
-      alt="AWS Certified Cloud Practitioner"
-      title="AWS Certified Cloud Practitioner"
-      width="72"
+      src="assets/badges/aws/aws-partner-sales-accreditation-training-badge.png"
+      alt="AWS Partner: Sales Accreditation (Training)"
+      title="AWS Partner: Sales Accreditation (Training)"
+      width="80"
     />
   </a>
 </p>
+
 
 
 
