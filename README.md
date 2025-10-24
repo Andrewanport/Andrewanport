@@ -1,7 +1,7 @@
 
 # 🧑🏻‍💻 | André Wanderley Porto
 
-**`Backend Developer`** **`Cloud Developer`** **`UX & UI`**
+### **`Backend Developer`** **`Cloud Developer`** **`UX & UI`**
 
 <img
   align="left" 
