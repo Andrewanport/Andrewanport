@@ -8,7 +8,7 @@
 ---
 
 <img
-  src="assets/badges/aws/aws-partner-sales-accreditation-training-badge.png"
+  src="assets/badges/aws/aws-partner-cloud-economics-essentials-training-bad.png"
   alt="AWS Certified Cloud Practitioner"
   title="AWS Certified Cloud Practitioner"
   width="150"
