@@ -1,11 +1,7 @@
 
 # 🧑🏻‍💻 | André Wanderley Porto
 
-**`Backend Developer`** **`UX & UI`**
-
-### 👋 Hi, I'm André! I'm a 21-year-old student currently pursuing a degree in Internet Systems at UNIESP. I'm passionate about technology, learning new things, and building solutions that make a difference. When I'm not coding, you'll probably find me reading, working out, or enjoying a good movie. Feel free to check out my projects here and connect with me through my social media. Let’s learn and grow together!
-
----
+**`Backend Developer`** **`Cloud Developer`** **`UX & UI`**
 
 <img
   align="left" 
@@ -39,7 +35,12 @@
 <br/>
 <br/>
 <br/>
-<br/>
+
+---
+
+### I'm a 21-year-old student currently pursuing a degree in Internet Systems at UNIESP. I'm passionate about technology, learning new things, and building solutions that make a difference. When I'm not coding, you'll probably find me reading, working out, or just enjoying a good movie. Feel free to check out my projects here and connect with me through my social media. Let’s learn and grow together!
+
+---
 
 ## ⭐ Technologies i use
 
