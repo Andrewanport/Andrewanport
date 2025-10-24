@@ -11,7 +11,7 @@
   src="assets/badges/aws/aws-partner-sales-accreditation-training-badge.png"
   alt="AWS Certified Cloud Practitioner"
   title="AWS Certified Cloud Practitioner"
-  width="80"
+  width="150"
 />
 
 
