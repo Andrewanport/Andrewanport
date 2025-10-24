@@ -19,7 +19,7 @@
 <img
   align="left" 
   style="padding-right: 20px;" 
-  src="badges/aws/aws-partner-cloud-economics-essentials-training-badge.png"
+  src="badges/aws/aws-partner-cloud-economics-essentials-training-bad.png"
   alt="AWS Cloud Economics"
   title="AWS Cloud Economics"
   width="150"
