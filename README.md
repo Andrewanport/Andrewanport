@@ -9,12 +9,24 @@
 
 <img
   src="badges/aws/aws-partner-sales-accreditation-training-badge.png"
-  alt="AWS Certified Cloud Practitioner"
-  title="AWS Certified Cloud Practitioner"
+  alt="AWS Sales"
+  title="AWS Sales"
   width="150"
 />
 
+<img
+  src="aws-partner-cloud-economics-essentials-training-bad.png"
+  alt="AWS Cloud Economics"
+  title="AWS Cloud Economics"
+  width="150"
+/>
 
+<img
+  src="badges/aws/aws-knowledge-cloud-essentials-training-badge.png"
+  alt="AWS Cloud Essencials Training"
+  title="AWS Cloud Essencials Training"
+  width="150"
+/>
 
 
 ## ⭐ Technologies i use
