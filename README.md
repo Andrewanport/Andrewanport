@@ -6,6 +6,7 @@
 ### 👋 Hi, I'm André! I'm a 21-year-old student currently pursuing a degree in Internet Systems at UNIESP. I'm passionate about technology, learning new things, and building solutions that make a difference. When I'm not coding, you'll probably find me reading, working out, or enjoying a good movie. Feel free to check out my projects here and connect with me through my social media. Let’s learn and grow together!
 
 ---
+
 <p align="left">
   <a href="https://www.credly.com/badges/d35695ae-944a-46e9-a69e-0b9b344a80a3/public_url" target="_blank" rel="noopener noreferrer">
     <img
@@ -15,7 +16,7 @@
       width="72"
     />
   </a>
-
+</p>
 
 
 
