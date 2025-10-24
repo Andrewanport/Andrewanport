@@ -8,6 +8,8 @@
 ---
 
 <img
+  align="left" 
+  style="padding-right: 20px;" 
   src="badges/aws/aws-partner-sales-accreditation-training-badge.png"
   alt="AWS Sales"
   title="AWS Sales"
@@ -15,6 +17,8 @@
 />
 
 <img
+  align="left" 
+  style="padding-right: 20px;" 
   src="aws-partner-cloud-economics-essentials-training-bad.png"
   alt="AWS Cloud Economics"
   title="AWS Cloud Economics"
@@ -22,6 +26,8 @@
 />
 
 <img
+  align="left" 
+  style="padding-right: 20px;" 
   src="badges/aws/aws-knowledge-cloud-essentials-training-badge.png"
   alt="AWS Cloud Essencials Training"
   title="AWS Cloud Essencials Training"
