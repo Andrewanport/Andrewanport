@@ -5,8 +5,9 @@
 
 ### 👋 Hi, I'm André! I'm a 21-year-old student currently pursuing a degree in Internet Systems at UNIESP. I'm passionate about technology, learning new things, and building solutions that make a difference. When I'm not coding, you'll probably find me reading, working out, or enjoying a good movie. Feel free to check out my projects here and connect with me through my social media. Let’s learn and grow together!
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d35695ae-944a-46e9-a69e-0b9b344a80a3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ---
+<img width="150" height="150" alt="aws-partner-sales-accreditation-training-badge" src="https://github.com/user-attachments/assets/0e8022b5-1630-4245-bbc5-0285f0ec2eec" />
+
 
 ## ⭐ Technologies i use
 
