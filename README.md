@@ -105,12 +105,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
-<br/>
-<br/>
-<br/>
-
-## ⭐ Frameworks 
-
 <img 
     align="left" 
     alt="Spring" 
@@ -128,13 +122,6 @@
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
 />
-
-
-<br/>
-<br/>
-<br/>
-
-## ⭐ DBMS
 
 <img 
     align="left" 
