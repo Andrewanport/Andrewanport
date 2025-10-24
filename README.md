@@ -6,7 +6,17 @@
 ### 👋 Hi, I'm André! I'm a 21-year-old student currently pursuing a degree in Internet Systems at UNIESP. I'm passionate about technology, learning new things, and building solutions that make a difference. When I'm not coding, you'll probably find me reading, working out, or enjoying a good movie. Feel free to check out my projects here and connect with me through my social media. Let’s learn and grow together!
 
 ---
-<img width="150" height="150" alt="aws-partner-sales-accreditation-training-badge" src="https://github.com/user-attachments/assets/0e8022b5-1630-4245-bbc5-0285f0ec2eec" />
+<a href="https://www.credly.com/badges/d35695ae-944a-46e9-a69e-0b9b344a80a3/public_url" target="_blank">
+  <img 
+      align="left" 
+      alt="AWS Certified Cloud Practitioner" 
+      title="AWS Certified Cloud Practitioner"
+      width="80px" 
+      style="padding-right: 20px;" 
+      src="https://images.credly.com/size/340x340/images/684b2d81-8aa7-42cc-bb74-ec6d71e6d2a6/image.png" 
+  />
+</a>
+
 
 
 ## ⭐ Technologies i use
