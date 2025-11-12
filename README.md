@@ -6,6 +6,15 @@
 <img
   align="left" 
   style="padding-right: 20px;" 
+  src="badges/aws/AWS Cloud Practitioner C02.png"
+  alt="AWS Sales"
+  title="AWS Sales"
+  width="120"
+/>
+
+<img
+  align="left" 
+  style="padding-right: 20px;" 
   src="badges/aws/aws-partner-sales-accreditation-training-badge.png"
   alt="AWS Sales"
   title="AWS Sales"
